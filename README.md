@@ -1,2 +1,1 @@
-# dot-vim
-vim files
+Vim config files.
